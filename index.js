@@ -1,3 +1,3 @@
-$('button').click(function(event) {
+$('button').click(function() {
   console.log('clicked!');
 })
